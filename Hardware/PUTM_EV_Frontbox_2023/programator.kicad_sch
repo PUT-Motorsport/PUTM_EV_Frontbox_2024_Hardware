@@ -523,7 +523,7 @@
   (symbol (lib_id "Device:Fuse_Small") (at 80.01 69.85 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 33a2cc6f-5840-4425-bc43-63fd21c4b987)
-    (property "Reference" "F6" (at 80.01 64.77 0)
+    (property "Reference" "F5" (at 80.01 64.77 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "Fuse_Small" (at 80.01 67.31 0)
@@ -540,7 +540,7 @@
     (instances
       (project "PUTM_EV_Frontbox_2023"
         (path "/b652b05a-4e3d-4ad1-b032-18886abe7d45/dd0098ec-f4e0-48aa-9050-ddfd0a2e4304"
-          (reference "F6") (unit 1)
+          (reference "F5") (unit 1)
         )
       )
     )
